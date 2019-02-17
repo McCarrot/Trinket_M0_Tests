@@ -10,3 +10,12 @@
 #include <stdio.h>
 
 
+void user_setup()
+{
+    //
+}
+
+void user_loop()
+{
+    //
+}

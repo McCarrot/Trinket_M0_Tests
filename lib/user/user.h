@@ -13,6 +13,7 @@
 #ifndef USER_H_
 #define USER_H_
 
-
+void user_setup();
+void user_loop();
 
 #endif /* USER_H_ */
