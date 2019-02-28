@@ -13,6 +13,9 @@
 #ifndef USER_H_
 #define USER_H_
 
+#include <stdio.h>
+#include "arduino.h"
+
 void user_setup();
 void user_loop();
 
